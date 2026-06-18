@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Q1 FULL DEBUG",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": ["--query", "Q1", "--mode", "full"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
